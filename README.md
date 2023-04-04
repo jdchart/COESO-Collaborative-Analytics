@@ -15,4 +15,4 @@ There are three main folders that the reader may consult:
 If the reader wishes to run the Python scripts included in this repo, they will need the following:
 
 - Python 3.10.9+
-- [spider-python](/)
+- [spider-python](https://github.com/jdchart/spider-python)

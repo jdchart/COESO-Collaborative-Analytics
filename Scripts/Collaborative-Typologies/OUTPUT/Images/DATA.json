@@ -1,0 +1,527 @@
+{
+    "Laban Notatations": {
+        "matrix": {
+            "adaptive": 0.42105263157894735,
+            "plan_oriented": 0.6842105263157895,
+            "institutional": 0.42105263157894735,
+            "revisable": 0.0
+        },
+        "loss": 0.2692307692307692,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Burning Heart": {
+        "matrix": {
+            "adaptive": 0.8695652173913043,
+            "plan_oriented": 0.4782608695652174,
+            "institutional": 0.30434782608695654,
+            "revisable": 0.0
+        },
+        "loss": 0.11538461538461538,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "About Silence": {
+        "matrix": {
+            "adaptive": 0.6666666666666666,
+            "plan_oriented": 0.6111111111111112,
+            "institutional": 0.3888888888888889,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Graffione's Intentions": {
+        "matrix": {
+            "adaptive": 0.5555555555555556,
+            "plan_oriented": 0.6111111111111112,
+            "institutional": 0.5555555555555556,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Public Workshop": {
+        "matrix": {
+            "adaptive": 0.9090909090909091,
+            "plan_oriented": 0.5,
+            "institutional": 0.3181818181818182,
+            "revisable": 0.0
+        },
+        "loss": 0.15384615384615385,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Alma Ballet Laban Notations": {
+        "matrix": {
+            "adaptive": 0.75,
+            "plan_oriented": 0.6,
+            "institutional": 0.2,
+            "revisable": 0.0
+        },
+        "loss": 0.23076923076923075,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Centre (Description de Ferrando)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Sober (Description de Ferrando)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Choreographic Phrase Notation": {
+        "matrix": {
+            "adaptive": 0.5263157894736842,
+            "plan_oriented": 0.47368421052631576,
+            "institutional": 0.47368421052631576,
+            "revisable": 0.0
+        },
+        "loss": 0.2692307692307692,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Starting with words": {
+        "matrix": {
+            "adaptive": 0.5555555555555556,
+            "plan_oriented": 0.6111111111111112,
+            "institutional": 0.5555555555555556,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Ferrando's Notes": {
+        "matrix": {
+            "adaptive": 0.7142857142857143,
+            "plan_oriented": 0.14285714285714285,
+            "institutional": 0.5714285714285714,
+            "revisable": 0.0
+        },
+        "loss": 0.4615384615384615,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Choreographic score": {
+        "matrix": {
+            "adaptive": 0.5714285714285714,
+            "plan_oriented": 0.5714285714285714,
+            "institutional": 0.42857142857142855,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "La Parola Del Corpo": {
+        "matrix": {
+            "adaptive": 0.75,
+            "plan_oriented": 0.55,
+            "institutional": 0.4,
+            "revisable": 0.0
+        },
+        "loss": 0.23076923076923075,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Desire and relationships": {
+        "matrix": {
+            "adaptive": 0.631578947368421,
+            "plan_oriented": 0.42105263157894735,
+            "institutional": 0.3684210526315789,
+            "revisable": 0.0
+        },
+        "loss": 0.2692307692307692,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Laban Notation of a Choreographic Phrase": {
+        "matrix": {
+            "adaptive": 0.42105263157894735,
+            "plan_oriented": 0.6842105263157895,
+            "institutional": 0.42105263157894735,
+            "revisable": 0.0
+        },
+        "loss": 0.2692307692307692,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Desire": {
+        "matrix": {
+            "adaptive": 0.6111111111111112,
+            "plan_oriented": 0.3888888888888889,
+            "institutional": 0.2777777777777778,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Graffione's Sketches": {
+        "matrix": {
+            "adaptive": 0.7142857142857143,
+            "plan_oriented": 0.14285714285714285,
+            "institutional": 0.5714285714285714,
+            "revisable": 0.0
+        },
+        "loss": 0.4615384615384615,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Truth (Description de Ferrando)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Graffione intentions": {
+        "matrix": {
+            "adaptive": 0.5555555555555556,
+            "plan_oriented": 0.6111111111111112,
+            "institutional": 0.5555555555555556,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Centre (Description de Graffione)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Public Performance": {
+        "matrix": {
+            "adaptive": 0.6111111111111112,
+            "plan_oriented": 0.3888888888888889,
+            "institutional": 0.2777777777777778,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Improvised solos": {
+        "matrix": {
+            "adaptive": 0.6190476190476191,
+            "plan_oriented": 0.47619047619047616,
+            "institutional": 0.2857142857142857,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Freedom and the Practice of Authenticity in Italian Feminism": {
+        "matrix": {
+            "adaptive": 0.8095238095238095,
+            "plan_oriented": 0.6190476190476191,
+            "institutional": 0.38095238095238093,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Graffione's Notes": {
+        "matrix": {
+            "adaptive": 0.7142857142857143,
+            "plan_oriented": 0.14285714285714285,
+            "institutional": 0.5714285714285714,
+            "revisable": 0.0
+        },
+        "loss": 0.4615384615384615,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Sober (Description de Graffione)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "About the Workshops": {
+        "matrix": {
+            "adaptive": 0.6111111111111112,
+            "plan_oriented": 0.5555555555555556,
+            "institutional": 0.3888888888888889,
+            "revisable": 0.0
+        },
+        "loss": 0.3076923076923077,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Alma Ballet Exercises": {
+        "matrix": {
+            "adaptive": 0.8695652173913043,
+            "plan_oriented": 0.5217391304347826,
+            "institutional": 0.2608695652173913,
+            "revisable": 0.0
+        },
+        "loss": 0.11538461538461538,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Alma Ballet Workshop Photos": {
+        "matrix": {
+            "adaptive": 0.8695652173913043,
+            "plan_oriented": 0.5217391304347826,
+            "institutional": 0.2608695652173913,
+            "revisable": 0.0
+        },
+        "loss": 0.11538461538461538,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Graffione's solo teaser": {
+        "matrix": {
+            "adaptive": 0.5789473684210527,
+            "plan_oriented": 0.47368421052631576,
+            "institutional": 0.3157894736842105,
+            "revisable": 0.0
+        },
+        "loss": 0.2692307692307692,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Founding texts": {
+        "matrix": {
+            "adaptive": 0.5714285714285714,
+            "plan_oriented": 0.5,
+            "institutional": 0.2857142857142857,
+            "revisable": 0.0
+        },
+        "loss": 0.4615384615384615,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Wandering": {
+        "matrix": {
+            "adaptive": 0.8695652173913043,
+            "plan_oriented": 0.4782608695652174,
+            "institutional": 0.30434782608695654,
+            "revisable": 0.0
+        },
+        "loss": 0.11538461538461538,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Organic (Description de Ferrando)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Truth (Description de Graffione)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Ferrando's solo teaser": {
+        "matrix": {
+            "adaptive": 0.5789473684210527,
+            "plan_oriented": 0.47368421052631576,
+            "institutional": 0.3157894736842105,
+            "revisable": 0.0
+        },
+        "loss": 0.2692307692307692,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    },
+    "Organic (Description de Graffione)": {
+        "matrix": {
+            "adaptive": 0.2857142857142857,
+            "plan_oriented": 0.3333333333333333,
+            "institutional": 0.5238095238095238,
+            "revisable": 0.0
+        },
+        "loss": 0.1923076923076923,
+        "col": [
+            222,
+            113,
+            126
+        ],
+        "drawShape": false
+    }
+}
