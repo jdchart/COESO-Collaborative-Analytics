@@ -2,6 +2,8 @@
 
 A repo of the data created and the tools made and used for the research project "_Collaboration Analytics Derived from Document Networks_" by Jacob Hart and Clarisse Bardiot.
 
+For more info, see [https://memorekall.com/en/memorekall-iiif-prototype/](https://memorekall.com/en/memorekall-iiif-prototype/)
+
 ## Contents
 
 There are three main folders that the reader may consult:
