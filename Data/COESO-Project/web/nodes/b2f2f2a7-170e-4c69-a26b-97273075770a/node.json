@@ -1,0 +1,41 @@
+{
+    "title": {
+        "en": "Pilot 2: Dancing Philosophy",
+        "fr": "Pilote 2: Dansophie"
+    },
+    "subject": "",
+    "description": {
+        "en": "The second pilot study for the COESO Project.",
+        "fr": "L'étude pilote 2 pour le projet COESO."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:00.873282",
+    "format": "&type=document&fileformat=pdf&dimensions-full=595,842&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/Dansophie.pdf&pages=2",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/b2f2f2a7-170e-4c69-a26b-97273075770a",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#358c3e&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "b2f2f2a7-170e-4c69-a26b-97273075770a",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/b2f2f2a7-170e-4c69-a26b-97273075770a",
+    "tags": {
+        "en": [
+            "study",
+            "COESO"
+        ]
+    }
+}

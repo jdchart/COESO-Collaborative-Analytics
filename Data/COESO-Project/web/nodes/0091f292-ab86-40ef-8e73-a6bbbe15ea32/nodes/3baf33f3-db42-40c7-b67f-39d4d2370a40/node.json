@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Laban Notation - Centre",
+        "fr": "Notation Laban - Centre"
+    },
+    "subject": "",
+    "description": {
+        "en": "Laban notation of the mouvement around the word centre.",
+        "fr": "Notation Laban du mouvement autour du mot centre."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=0091f292-ab86-40ef-8e73-a6bbbe15ea32&sourceRegions=&newRegion=&start=0&end=128000",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:16:19:57.865486",
+    "format": "&type=image&fileformat=jpg&dimensions-full=2339,1654&dimensions-region=-1&uri=center.jpg",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/0091f292-ab86-40ef-8e73-a6bbbe15ea32/nodes/3baf33f3-db42-40c7-b67f-39d4d2370a40",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#88d18f&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "3baf33f3-db42-40c7-b67f-39d4d2370a40",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/0091f292-ab86-40ef-8e73-a6bbbe15ea32/nodes/3baf33f3-db42-40c7-b67f-39d4d2370a40",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Teaser of Ferrando's Solo",
+        "fr": "Teaseur du solo de Ferrando"
+    },
+    "subject": "",
+    "description": {
+        "en": "A video teaser of Ferrando's solo around the word silence.",
+        "fr": "Un teaseur vidéo du solo de Ferrando autour du mot silence."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:01.320641",
+    "format": "&type=video&fileformat=mp4&duration-full=71000&duration-start=-1&duration-end=-1&dimensions-full=1280,720&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/Silence_par_Stefania_Ferrando_(teaser).mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/00b1a349-397b-415a-aac8-8ec5b51321c1",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "29666c9b-60cd-4440-b27e-450b8dc0c520",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/29666c9b-60cd-4440-b27e-450b8dc0c520",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

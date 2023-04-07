@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Loneliness 3",
+        "fr": "Solitude 3"
+    },
+    "subject": "",
+    "description": {
+        "en": "Laban transcription.",
+        "fr": "Transcription Laban."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=c3f92e01-c85a-4487-a40e-6c29f9dc915d&sourceRegions=&newRegion=&start=110000&end=153000",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:16:19:57.857908",
+    "format": "&type=image&fileformat=jpg&dimensions-full=513,542&dimensions-region=-1&uri=AFS_solitude_3.jpg",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/c3f92e01-c85a-4487-a40e-6c29f9dc915d/nodes/2f912e87-2683-4e97-99df-7363730f9de9",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#88d18f&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "2f912e87-2683-4e97-99df-7363730f9de9",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/c3f92e01-c85a-4487-a40e-6c29f9dc915d/nodes/2f912e87-2683-4e97-99df-7363730f9de9",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "title": {
+        "en": "COESO Project",
+        "fr": "Projet COESO"
+    },
+    "subject": "COESO project;research project;contemporary dance;philosophy",
+    "description": {
+        "en": "A network describing the work that occured around the COESO Project's Pilot 2: Dancing Philosophy.",
+        "fr": "Un réseau qui décrit le travail autour du Pilote 2 du projet COESO: Dansophie."
+    },
+    "type": {
+        "en": "Document network",
+        "fr": "Réseau documentaire"
+    },
+    "source": {
+        "en": "Various",
+        "fr": "Divers"
+    },
+    "relation": "",
+    "coverage": "&start=01-01-2021:00:00:00.000000&end=12-31-2023:00:00:00.000000&region=Europe&&_&&(France&&_&&and&&_&&Italy)",
+    "creator": "Jacob Hart, Clarisse Bardiot, Sébastien Hildebrand",
+    "publisher": "",
+    "contributor": "",
+    "rights": "open source",
+    "date": "02-20-2023:09:51:00.859029",
+    "format": "",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": {
+        "en": "Those who are interested in the COESO project, contemporary dance or philosophy.",
+        "fr": "Celles et ceux qui s'intéressent au projet COESO, la danse contemporaine ou la philosophie."
+    },
+    "provenance": {
+        "en": "Various",
+        "fr": "Divers"
+    },
+    "rightsHolder": "",
+    "instructionalMethod": "",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "c408de81-d19f-425f-b399-86a73af007a4",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project",
+    "tags": []
+}

@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Compromise 3",
+        "fr": "Compromis 3"
+    },
+    "subject": "",
+    "description": {
+        "en": "Laban transcription",
+        "fr": "Transcription Laban."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=c3f92e01-c85a-4487-a40e-6c29f9dc915d&sourceRegions=&newRegion=&start=25000&end=31000",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:16:19:57.854802",
+    "format": "&type=image&fileformat=jpg&dimensions-full=635,451&dimensions-region=-1&uri=BLM_compromise_3.jpg",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/c3f92e01-c85a-4487-a40e-6c29f9dc915d/nodes/a13e95bf-5370-4a10-ba71-0ecb94df0a64",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#88d18f&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "a13e95bf-5370-4a10-ba71-0ecb94df0a64",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/c3f92e01-c85a-4487-a40e-6c29f9dc915d/nodes/a13e95bf-5370-4a10-ba71-0ecb94df0a64",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

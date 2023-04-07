@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Organic (Ferrando's Description)",
+        "fr": "Organique (description de Ferrando)"
+    },
+    "subject": "",
+    "description": {
+        "en": "Ferrando describing the mouvement around the word organic.",
+        "fr": "Ferrando décrit le mouvement autour du mot organique."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:01.774964",
+    "format": "&type=video&fileformat=mp4&duration-full=124000&duration-start=-1&duration-end=-1&dimensions-full=1920,1080&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/organic_stefania.mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/bb2e59bf-27b4-4b0d-a3d2-57cb347424aa",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "bb2e59bf-27b4-4b0d-a3d2-57cb347424aa",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/bb2e59bf-27b4-4b0d-a3d2-57cb347424aa",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

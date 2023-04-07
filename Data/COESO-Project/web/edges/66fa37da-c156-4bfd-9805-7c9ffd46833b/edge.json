@@ -1,0 +1,33 @@
+{
+    "title": {
+        "en": "Truth (Ferrando's Description) -- Centre (Graffione's Description)",
+        "fr": "Vérité (description de Ferrando) -- Centre (description de Graffione)"
+    },
+    "subject": "",
+    "description": {
+        "en": "Created automatically: \"Ferrando\" found in Truth (Ferrando's Description) and \"Graffione\" found in Centre (Graffione's Description).",
+        "fr": "Crée automatiquement: \"Ferrando\" trouvé dans Vérité (description de Ferrando) et \"Graffione\" trouvé dans Centre (description de Graffione)."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=ec7021d1-0cba-4441-80c2-756c4c510290&target=9de9a44c-50e8-4a86-804a-043421561b9f",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-22-2023:14:43:32.580344",
+    "format": "",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/66fa37da-c156-4bfd-9805-7c9ffd46833b",
+    "language": "en",
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "66fa37da-c156-4bfd-9805-7c9ffd46833b",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/66fa37da-c156-4bfd-9805-7c9ffd46833b",
+    "tags": []
+}

@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Sober (Ferrando's Description)",
+        "fr": "Sobre (description de Ferrando)"
+    },
+    "subject": "",
+    "description": {
+        "en": "Ferrando describing the mouvement around the word sober.",
+        "fr": "Ferrando décrit le mouvement autour du mot sobre."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:02.026990",
+    "format": "&type=video&fileformat=mp4&duration-full=73000&duration-start=-1&duration-end=-1&dimensions-full=1920,1080&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/sober_stefania.mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/f3a6803d-bb69-4121-9a9d-d6a3463f0097",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "f3a6803d-bb69-4121-9a9d-d6a3463f0097",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/f3a6803d-bb69-4121-9a9d-d6a3463f0097",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": {
+        "en": "Truth (Ferrando's Description) -- Stefania Ferrando",
+        "fr": "Vérité (description de Ferrando) -- Stefania Ferrando"
+    },
+    "subject": "",
+    "description": {
+        "en": "Ferrando décrit le mot.",
+        "fr": "Ferrando décrit le mot."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=ec7021d1-0cba-4441-80c2-756c4c510290&target=79801a83-7782-4f98-b321-83a9d90c6960",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:10:58:53.089831",
+    "format": "",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/e474acd0-1078-4770-bde6-800917d3821e",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#677691",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "e474acd0-1078-4770-bde6-800917d3821e",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/e474acd0-1078-4770-bde6-800917d3821e",
+    "tags": []
+}

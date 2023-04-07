@@ -1,0 +1,36 @@
+{
+    "title": {
+        "en": "Sober (Graffione's Description) -- Sober (Ferrando's Description)",
+        "fr": "Sobre (description de Graffione) -- Sobre (description de Ferrando)"
+    },
+    "subject": "",
+    "description": {
+        "en": "The word sobre described by the other actor.",
+        "fr": "Le mot Sobre décrit par l'autre acteur."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=eb6664f6-01f1-4517-851f-7849ebb12897&target=f3a6803d-bb69-4121-9a9d-d6a3463f0097",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:10:58:53.073617",
+    "format": "",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/a312facc-e10b-434c-9c2a-2a822d41671b",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#677691",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "a312facc-e10b-434c-9c2a-2a822d41671b",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/a312facc-e10b-434c-9c2a-2a822d41671b",
+    "tags": []
+}

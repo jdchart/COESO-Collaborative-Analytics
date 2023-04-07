@@ -1,0 +1,33 @@
+{
+    "title": {
+        "en": "Organic (Ferrando's Description) -- Truth (Graffione's Description)",
+        "fr": "Organique (description de Ferrando) -- Vérité (description de Graffione)"
+    },
+    "subject": "",
+    "description": {
+        "en": "Created automatically: \"Ferrando\" found in Organic (Ferrando's Description) and \"Graffione\" found in Truth (Graffione's Description).",
+        "fr": "Crée automatiquement: \"Ferrando\" trouvé dans Organique (description de Ferrando) et \"Graffione\" trouvé dans Vérité (description de Graffione)."
+    },
+    "type": "",
+    "source": "",
+    "relation": "&source=bb2e59bf-27b4-4b0d-a3d2-57cb347424aa&target=ec7ecca1-1aa0-4506-975f-909394b439d8",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-22-2023:14:43:32.915991",
+    "format": "",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/2163810a-52d5-4fba-821d-a961e0429097",
+    "language": "en",
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "2163810a-52d5-4fba-821d-a961e0429097",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/edges/2163810a-52d5-4fba-821d-a961e0429097",
+    "tags": []
+}

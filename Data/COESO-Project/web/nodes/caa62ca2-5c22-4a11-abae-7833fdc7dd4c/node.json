@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Wandering",
+        "fr": "Errance"
+    },
+    "subject": "",
+    "description": {
+        "en": "Video recording of some of the work that occured at the Arenberg workshop.",
+        "fr": "Une captation vidéo qui documente le travail de l'atelier à Arenberg."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:01.306928",
+    "format": "&type=video&fileformat=mp4&duration-full=119000&duration-start=-1&duration-end=-1&dimensions-full=1280,720&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/Dancing_Philosophy_-_Errance.mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/91efe2bb-52f4-457c-8cf9-a68bd6fbed0a",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "caa62ca2-5c22-4a11-abae-7833fdc7dd4c",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/caa62ca2-5c22-4a11-abae-7833fdc7dd4c",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

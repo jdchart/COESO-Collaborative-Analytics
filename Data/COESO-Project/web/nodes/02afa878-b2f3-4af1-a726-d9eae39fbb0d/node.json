@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Organic (Graffione's description)",
+        "fr": "Organic (Graffione's description)"
+    },
+    "subject": "",
+    "description": {
+        "en": "Graffione describing the mouvement around the word organic.",
+        "fr": "Graffione décrit le mouvement autour du mot organique."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:01.817134",
+    "format": "&type=video&fileformat=mp4&duration-full=60000&duration-start=-1&duration-end=-1&dimensions-full=1920,1080&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/organic_cosetta.mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/1546d2c4-9da5-43bd-b109-09bccaf85bb9",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "02afa878-b2f3-4af1-a726-d9eae39fbb0d",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/02afa878-b2f3-4af1-a726-d9eae39fbb0d",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}

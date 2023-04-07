@@ -1,0 +1,48 @@
+{
+    "title": {
+        "en": "Improvised Solos",
+        "fr": "Solos Improvisés"
+    },
+    "subject": "",
+    "description": {
+        "en": "A video of Graffione and Ferrando. In two parts, each participant performs a solo around a given word.",
+        "fr": "Une viidéo de Graffione et Ferrando. En deux parties, chaque participante fait un solo autour d'un mot."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:01.392890",
+    "format": "&type=video&fileformat=mp4&duration-full=462000&duration-start=-1&duration-end=-1&dimensions-full=1280,720&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/Dancing_Philosophy_Solos_improvises.mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/7a9b0199-6acc-4db1-82e8-97139b79594d",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "7a9b0199-6acc-4db1-82e8-97139b79594d",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/7a9b0199-6acc-4db1-82e8-97139b79594d",
+    "tags": {
+        "en": [
+            "Graffione",
+            "Ferrando",
+            "solo",
+            "dance",
+            "words",
+            "silence",
+            "kindness",
+            "workshop",
+            "bologna"
+        ]
+    }
+}

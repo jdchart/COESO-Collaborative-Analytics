@@ -1,0 +1,39 @@
+{
+    "title": {
+        "en": "Centre (Graffione's Description)",
+        "fr": "Centre (description de Graffione)"
+    },
+    "subject": "",
+    "description": {
+        "en": "Graffione's description of the mouvement around the word centre.",
+        "fr": "Graffione décrit le mouvement autour du mot centre."
+    },
+    "type": "",
+    "source": "",
+    "relation": "",
+    "coverage": "",
+    "creator": "",
+    "publisher": "",
+    "contributor": "",
+    "rights": "",
+    "date": "02-20-2023:09:51:02.166241",
+    "format": "&type=video&fileformat=mp4&duration-full=70000&duration-start=-1&duration-end=-1&dimensions-full=1920,1080&dimensions-region=-1&uri=/Users/jacob/Documents/Git&&_&&Repos/Spider&&_&&Webs/COESO-Project/media/centre_cosetta.mp4",
+    "identifier": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/9de9a44c-50e8-4a86-804a-043421561b9f",
+    "language": [
+        "en",
+        "fr"
+    ],
+    "audience": "",
+    "provenance": "",
+    "rightsHolder": "",
+    "instructionalMethod": "&color=#4287f5&important=False&annotationPaint=True&annotationOverlay=False&annotationDisplayPos=0,0&annotationDisplayScale=1.0",
+    "accrualMethod": "",
+    "accrualPeriodicity": "",
+    "accrualPolicy": "",
+    "uuid": "9de9a44c-50e8-4a86-804a-043421561b9f",
+    "path": "/Users/jacob/Documents/Git Repos/Spider Webs/COESO-Project/web/nodes/9de9a44c-50e8-4a86-804a-043421561b9f",
+    "tags": {
+        "en": [],
+        "fr": []
+    }
+}
